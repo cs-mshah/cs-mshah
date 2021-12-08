@@ -22,7 +22,7 @@
 <a href="https://dev.to/csmshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="csmshah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manan-shah-2a5779212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manan-shah-2a5779212" height="30" width="40" /></a>
 <a href="https://instagram.com/manan4028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manan4028" height="30" width="40" /></a>
-<a href="/https://cs-mshah.github.io/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cs-mshah.github.io/index.xml" height="30" width="40" /></a>
+<a href="https://cs-mshah.github.io/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cs-mshah.github.io/index.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
