@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **innovative projects**
 
-- 📝 I write articles on [cs-mshah.github.io](cs-mshah.github.io)
+- 📝 I write articles on [cs-mshah.github.io](https://cs-mshah.github.io)
 
 - 💬 Ask me about **Algorithms, Linux, anything interesting and I'd be happy to interact**
 
