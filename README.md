@@ -35,8 +35,8 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/mzhang2021/cp-blog/issues/5) in [mzhang2021/cp-blog](https://github.com/mzhang2021/cp-blog)
-2. 🗣 Commented on [#1](https://github.com/mzhang2021/cp-blog/issues/1) in [mzhang2021/cp-blog](https://github.com/mzhang2021/cp-blog)
+1. 🗣 Commented on [#1](https://github.com/cs-mshah/cs-mshah.github.io/issues/1) in [cs-mshah/cs-mshah.github.io](https://github.com/cs-mshah/cs-mshah.github.io)
+2. 🗣 Commented on [#5](https://github.com/mzhang2021/cp-blog/issues/5) in [mzhang2021/cp-blog](https://github.com/mzhang2021/cp-blog)
 <!--END_SECTION:activity-->
 
 </details>
