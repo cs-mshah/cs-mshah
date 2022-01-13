@@ -35,8 +35,8 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cs-mshah/cs-mshah.github.io/issues/1) in [cs-mshah/cs-mshah.github.io](https://github.com/cs-mshah/cs-mshah.github.io)
-2. 🗣 Commented on [#5](https://github.com/mzhang2021/cp-blog/issues/5) in [mzhang2021/cp-blog](https://github.com/mzhang2021/cp-blog)
+1. ❌ Closed PR [#2](https://github.com/cs-mshah/cs-mshah.github.io/pull/2) in [cs-mshah/cs-mshah.github.io](https://github.com/cs-mshah/cs-mshah.github.io)
+2. 🎉 Merged PR [#3](https://github.com/cs-mshah/cs-mshah.github.io/pull/3) in [cs-mshah/cs-mshah.github.io](https://github.com/cs-mshah/cs-mshah.github.io)
 <!--END_SECTION:activity-->
 
 </details>
