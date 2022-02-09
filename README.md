@@ -35,8 +35,8 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/cs-mshah/cs-mshah.github.io/pull/2) in [cs-mshah/cs-mshah.github.io](https://github.com/cs-mshah/cs-mshah.github.io)
-2. 🎉 Merged PR [#3](https://github.com/cs-mshah/cs-mshah.github.io/pull/3) in [cs-mshah/cs-mshah.github.io](https://github.com/cs-mshah/cs-mshah.github.io)
+1. ❗️ Opened issue [#5053](https://github.com/typora/typora-issues/issues/5053) in [typora/typora-issues](https://github.com/typora/typora-issues)
+2. ❌ Closed PR [#2](https://github.com/cs-mshah/cs-mshah.github.io/pull/2) in [cs-mshah/cs-mshah.github.io](https://github.com/cs-mshah/cs-mshah.github.io)
 <!--END_SECTION:activity-->
 
 </details>
