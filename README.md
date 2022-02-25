@@ -35,8 +35,8 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#140](https://github.com/elias-sundqvist/obsidian-annotator/issues/140) in [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)
-2. ❗️ Opened issue [#139](https://github.com/elias-sundqvist/obsidian-annotator/issues/139) in [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)
+1. 🗣 Commented on [#2](https://github.com/elias-sundqvist/obsidian-static-file-server/issues/2) in [elias-sundqvist/obsidian-static-file-server](https://github.com/elias-sundqvist/obsidian-static-file-server)
+2. ❗️ Opened issue [#140](https://github.com/elias-sundqvist/obsidian-annotator/issues/140) in [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)
 <!--END_SECTION:activity-->
 
 </details>
