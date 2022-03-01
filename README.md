@@ -35,8 +35,8 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/elias-sundqvist/obsidian-static-file-server/issues/2) in [elias-sundqvist/obsidian-static-file-server](https://github.com/elias-sundqvist/obsidian-static-file-server)
-2. ❗️ Opened issue [#140](https://github.com/elias-sundqvist/obsidian-annotator/issues/140) in [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)
+1. ❗️ Opened issue [#62](https://github.com/ozntel/file-tree-alternative/issues/62) in [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative)
+2. 🗣 Commented on [#2](https://github.com/elias-sundqvist/obsidian-static-file-server/issues/2) in [elias-sundqvist/obsidian-static-file-server](https://github.com/elias-sundqvist/obsidian-static-file-server)
 <!--END_SECTION:activity-->
 
 </details>
