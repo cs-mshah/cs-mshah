@@ -35,8 +35,8 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/ArianaKhit/text-snippets-obsidian/issues/36) in [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian)
-2. ❗️ Opened issue [#62](https://github.com/ozntel/file-tree-alternative/issues/62) in [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative)
+1. 🗣 Commented on [#36](https://github.com/ArianaKhit/text-snippets-obsidian/issues/36) in [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian)
+2. ❗️ Opened issue [#36](https://github.com/ArianaKhit/text-snippets-obsidian/issues/36) in [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian)
 <!--END_SECTION:activity-->
 
 </details>
