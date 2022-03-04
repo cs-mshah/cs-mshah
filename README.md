@@ -35,8 +35,8 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#62](https://github.com/ozntel/file-tree-alternative/issues/62) in [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative)
-2. 🗣 Commented on [#2](https://github.com/elias-sundqvist/obsidian-static-file-server/issues/2) in [elias-sundqvist/obsidian-static-file-server](https://github.com/elias-sundqvist/obsidian-static-file-server)
+1. ❗️ Opened issue [#36](https://github.com/ArianaKhit/text-snippets-obsidian/issues/36) in [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian)
+2. ❗️ Opened issue [#62](https://github.com/ozntel/file-tree-alternative/issues/62) in [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative)
 <!--END_SECTION:activity-->
 
 </details>
