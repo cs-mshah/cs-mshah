@@ -35,8 +35,8 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/ArianaKhit/text-snippets-obsidian/issues/36) in [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian)
-2. ❗️ Opened issue [#36](https://github.com/ArianaKhit/text-snippets-obsidian/issues/36) in [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian)
+1. ❗️ Opened issue [#6](https://github.com/coddingtonbear/obsidian-local-rest-api/issues/6) in [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api)
+2. 🗣 Commented on [#36](https://github.com/ArianaKhit/text-snippets-obsidian/issues/36) in [ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian)
 <!--END_SECTION:activity-->
 
 </details>
