@@ -5,13 +5,13 @@
 
 <!-- - 🔭 I’m currently working on **test** -->
 
-- 🌱 I’m currently learning about **Machine learning and Deep Learning** and currently exploring **Transformer models!**
+- 🌱 I’m currently learning about **Deep Learning and Computer Vision** and currently exploring **Domain Adaptation, Generalized category discovery.**
 
 - 👯 I’m looking to collaborate on **innovative/research oriented projects**
 
 - 📝 I write articles on [cs-mshah.github.io](https://cs-mshah.github.io)
 
-- 💬 Ask me about **Deep learning, Algorithms, Linux, anything interesting and I'd be happy to interact**
+- 💬 Ask me about **Computer Vision, Deep learning, Algorithms, Linux, anything interesting and I'd be happy to interact**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
